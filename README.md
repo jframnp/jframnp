@@ -1,5 +1,5 @@
 # About Me:
-🔭 Atualmente estudo Desenvolvimento de Sistemas, no Senai Suiço. <br>👯 Procuro colaborar em projetos Front-End<br>🌱 Estou estudando React Native e Node.JS<br>⚡ Tenho 17 anos e amo programção!
+🔭 Atualmente estudo Desenvolvimento de Sistemas, no Senai Suiço. <br>👯 Procuro colaborar em projetos Front-End e Back-end<br>🌱 Estou estudando React Native<br>⚡ Tenho 17 anos e amo programção!
 
 
 ## 🌐 Socials:
